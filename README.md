@@ -96,25 +96,3 @@ Criar uma **landing page** com visual atrativo e recursos interativos, voltada p
 
 ![image](https://github.com/user-attachments/assets/cc4f892d-6c5a-417d-bb78-e15b37555606)
 
-
----
-
-## 📎 Link para o projeto (opcional)
-
-[🔗 Acesse aqui a landing page](#)
-
-
-
-
-
----
-
-## 📎 Link para o projeto
-
-[🔗 Acesse aqui a landing page](#)
-
----
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Sinta-se livre para usar e modificar.
